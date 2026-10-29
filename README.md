@@ -1,5 +1,7 @@
 # NODO
 
+<img width="896" height="625" alt="Screenshot 2026-10-29 at 16 36 36" src="https://github.com/user-attachments/assets/45b0d3fa-8c02-4566-8e1d-90d99f8a8dab" />
+
 **Your devices. Your interface.**
 
 NODO is an experimental, local-first maker dashboard for iPad. Build customizable control surfaces for DIY electronics, and grow towards a unified home control experience. 
